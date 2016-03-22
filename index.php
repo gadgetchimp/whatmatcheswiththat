@@ -53,6 +53,10 @@ function array_delete($value, $array) {
       ?>
     }
   	</style>
+	
+	<p>Image Test</p><br />
+	<img src="contrast_scale.bmp" alt="test image" style="width:308px;height:228px;"><br />
+	
   </head>
   <body>
 	<strong>Coming Soon!!</strong> <br />
