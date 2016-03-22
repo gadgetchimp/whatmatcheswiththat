@@ -1,1 +1,1 @@
-##### This site was created to help indivuduals match different clothes colors correctly. 
+##### This site was created to help individuals match different clothes colors correctly. 
